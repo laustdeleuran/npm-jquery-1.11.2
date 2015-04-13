@@ -17,6 +17,6 @@
   "author": "Laust Deleuran <ljd@ljd.dk> (http://ljd.dk)",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^1.11.2"
+    "jquery": "1.11.2"
   }
 }
