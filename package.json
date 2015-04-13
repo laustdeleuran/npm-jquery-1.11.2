@@ -1,0 +1,22 @@
+{
+  "name": "jquery-1.11.2",
+  "version": "1.11.2",
+  "description": "jQuery @ 1.11.2",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:laustdeleuran/npm-jquery-1.11.2.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "Laust Deleuran <ljd@ljd.dk> (http://ljd.dk)",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^1.11.2"
+  }
+}
